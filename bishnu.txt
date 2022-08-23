@@ -1,1 +1,30 @@
-this is a bishnu 
+git config --list
+git config --global user.email "email Address"
+git config --global user.name "username"
+
+
+     
+       
+
+
+3 state :   
+  1> Untracked unstages  =>    git status
+  1> tracked stages =>   git add .
+  1> commited =>   git commit -m "Commit Message"
+
+
+  show all  git details   =>  git log
+
+      to update git 
+  git remot set-url origin 'url'
+
+
+check branch
+git branch
+
+  create branch 
+  git checkout -b 'bishnu/add-new-info'
+
+
+  switch branch
+  git checkout main
